@@ -1,6 +1,7 @@
 ## neurocg
 
-To run this code, use command line. I recommend starting with stimloop.py and stimsweep.py to get a feel for it. 
+This code was written by [mcmorre](https://github.com/mcmorre) and I have just adapted and rearranged the functions.
+To run this code, I use command line. I recommend starting with stimloop.py and stimsweep.py to get a feel for it. 
 
 #stimsweep.py
 
